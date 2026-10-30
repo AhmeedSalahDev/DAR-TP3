@@ -4,10 +4,6 @@
 **Faculté des Sciences de Sfax** — Année universitaire 2026–2027
 **Étudiant :** Salah Ahmed
 
-> ⚠️ **À supprimer avant le rendu :** chaque bloc 📸 indique **quoi capturer**. Collez votre capture sur la ligne vide juste en dessous du bloc (sur GitHub : ✏️ Edit → Ctrl+V), puis supprimez le bloc 📸.
->
-> **Avant les captures :** dans IntelliJ, pour lancer le même client 2 fois, ouvrez *Run → Edit Configurations → Modify options* et cochez **Allow multiple instances**.
-
 ---
 
 ## Structure du projet
